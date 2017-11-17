@@ -5,8 +5,9 @@
 @charset "utf-8";
 
 
-$serif      : Georgia, Times, serif;
+$serif      : "PT Serif", Georgia, Times, serif;
 $sans-serif : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif-narrow : "PT Sans Narrow", -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
 $global-font-family : $serif;
@@ -17,5 +18,7 @@ $header-font-family : $serif;
 
 td {
     border-bottom: 0px;
-    padding: 0.2 em;
+    padding: 0.2em;
+    font-size: 16px;
 }
+

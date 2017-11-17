@@ -2,9 +2,6 @@
 layout: splash
 permalink: /program/
 ---
-# Program
-
-
 |-:|:-|
 | **Lundi le 4 Décembre** ||
 | 09h15               | (accueil, overture)                                                                                                                                           |
