@@ -31,9 +31,12 @@ I give a brief overview of social meaning and identity construction through lang
 (TBA)                                                                                                                       
 
 ### Ye Tian (LLF, Paris-Diderot & Amazon)
-**Um, what’s the word: Filled Pauses and Self-addressed Questions; Disfluency in German, French and Chinese dialogues**
+**Um, what’s the word: Filled Pauses and Self-addressed Questions**<br/>
+Natural speech is rarely fluent. In this natural example "they had a new episode uh this past .. uh what is it .. Tue - Mon - Tuesday night maybe", there are hesitations (silent and filled pauses), a self-addressed question (what is it) and repairs. Clark & Fox-Tree (2002) proposed that pause fillers "uh" and "um" are conventionalized English words - interjections which speakers use to announce a minor (uh) or a major (um) delay. In this paper, we present a corpus study on the relation between self-addressed-questions (SAQs) and pause fillers in English and Chinese. If "um" signals more serious planning problems, then SAQs should more often follow "um" than "uh". We found that in London Lund and the BNC that is indeed the case. However, in the Switchboard corpus(American English), the rates of SAQs following "um" and "uh" are the same. This suggests a potential dialectal difference between British and American English. In Taiwan Mandarin, there are slightly more SAQs following nasalized (e.g. em)  than non-nasalized pause fillers (e.g eh). However, SAQs are also frequently proceeded by "nage", a word that's also used as a demonstrative (that). Based on the data, we propose a dialogue model under the framework KoS (Ginzburg 2012) to account for the incremental nature of SAQs. 
 
-(TBA)
+
+**Disfluency in German, French and Chinese dialogues**<br/>
+This paper investigates the distribution of disfluency in natural dialogues in three languages: German, French and Chinese, using the DUEL corpus. We found that different languages have different rates of disfluencies (French > Chinese > German), as well as different distributions of different types. Languages use filled pauses and EPs are different rates (more frequent in French than in Chinese and German). An EP does not need to have the semantic meaning of “editing”. A repertoire of both ”non-lexical” and lexical filled pauses were used in all three languages. However, “editing phrases” do appear more frequently in repairs than in repeats. > speakers signal repairs.
 
 
 ### Julian Hough (Bielefeld University)
