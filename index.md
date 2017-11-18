@@ -12,6 +12,8 @@ The workshop is funded by the [Institut Universitaire de France](http://www.iufr
 
 The workshop is hosted by the [Institut d’études avancées de Paris](http://www.paris-iea.fr) in the Hôtel de Lauzun, a historic 17th century building. 
 
+### Organising committee 
+Jonathan Ginzburg, Eimear Maguire, Chiara Mazzocconi, Vladislav Maraev, Ye Tian, Léo Zaradski
 
 ![logo](/assets/images/llf-web.png)
 &emsp;
