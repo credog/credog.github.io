@@ -12,7 +12,13 @@ The workshop is funded by the [Institut Universitaire de France](http://www.iufr
 
 The workshop is hosted by the [Institut d’études avancées de Paris](http://www.paris-iea.fr) in the Hôtel de Lauzun, a historic 17th century building. 
 
-![logo](/assets/images/iuf-logo.png) ![logo](/assets/images/Logo_IEA.png)
+
+![logo](/assets/images/llf-web.png)
+&emsp;
+![logo](/assets/images/Logo_UPD_web.jpg)
+&emsp;
+![logo](/assets/images/iuf-logo.png)
+![logo](/assets/images/Logo_IEA.png)
 
 
 

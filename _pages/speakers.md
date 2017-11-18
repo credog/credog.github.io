@@ -43,7 +43,7 @@ This paper investigates the distribution of disfluency in natural dialogues in t
 
 Despite being marginalized by mainstream linguistic research, we claim that disfluency is a core part of dialogue content. We support this claim from a computational modelling perspective, by showing how repairs and edit terms are amenable to modelling by statistical sequence models, in line with current automatic approaches to other linguistic phenomena. From the work on the DUEL project, we present the joint task of incremental disfluency detection and utterance segmentation on dialogue data, and a simple deep learning system which performs it on transcripts and speech recognition results. We show how the constraints of the two tasks interact. Our joint-task system outperforms the equivalent individual task systems, provides competitive results and is suitable for future use in conversation agents in the psychiatric domain.
 
-Relevant prior reading: Hough, J., & Schlangen, D. (2017). [Joint, Incremental Disfluency Detection and Utterance Segmentation from Speech](/papers/hough.pdf). In Proceedings of the Annual Meeting of the European Chapter of the Association for Computational Linguistics (EACL).
+Hough, J., & Schlangen, D. (2017). [Joint, Incremental Disfluency Detection and Utterance Segmentation from Speech](/papers/hough.pdf). In Proceedings of the Annual Meeting of the European Chapter of the Association for Computational Linguistics (EACL).
 
 ### Andrzej Wiśniewski (Adam Mickiewicz University, Poznan)
 *Question dependencies in view of erotetic logic*
@@ -64,7 +64,7 @@ Dialogue is sensitive to many aspects of context, including the roles that parti
 
 (TBA)
 
-Relevant prior reading: Schlangen, D. (2016). [Grounding, Justification, Adaptation: Towards Machines That Mean What They Say](/papers/schlangen.pdf). In Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue (JerSem).
+Schlangen, D. (2016). [Grounding, Justification, Adaptation: Towards Machines That Mean What They Say](/papers/schlangen.pdf). In Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue (JerSem).
 
 ### Chiara Mazzocconi (LLF, Paris-Diderot)
 *What’s your laughter doing there?*
@@ -76,23 +76,25 @@ Laughter is extremely frequent in our daily interactions occurring in the most d
 
 If iconic co-speech gestures contribute to the semantics of dialogue, then there is a way of getting from hand-and-arm movements to meanings. The talk provides such a semantic model based on the notion of exemplification. It is spelled out within a Type Theory with Records and thereby linked to a dynamic update semantics. Furthermore, based on observations on pairs of such iconic gestures and their affiliated verbal expressions, the notion of multimodal ensembles is introduced and operationalized as an extension of the interactive alignment model. Since the performance of a co-speech gesture and its relation to verbal expressions is often very sketchy and vague, in ongoing work an associative interface based on conceptual spaces is tested. The conceptual framework and first results, as available, are presented. 
 
-Relevant prior reading: Lücking, A. (2016). [Modeling co-verbal gesture perception in type theory with records](/papers/luecking). In Computer Science and Information Systems (FedCSIS), 2016 Federated Conference on (pp. 383-392). IEEE.
+Lücking, A. (2016). [Modeling co-verbal gesture perception in type theory with records](/papers/luecking). In Computer Science and Information Systems (FedCSIS), 2016 Federated Conference on (pp. 383-392). IEEE.
 
 ### Judith Holler (MPI, Nijmegen)
 *Multimodal language use and comprehension in social interaction: the body is part of the package*
 
 My talk will address the issue of whether the information we convey with our bodies (esp with hands, head and face) should be considered core components of the messages that interlocutors convey and comprehend. I will reflect on this issue primarily from a psycholinguistic perspective, drawing on both experimental and corpus data. Specifically, I will address the link between bodily signals and communicative intentions, their relevance in semantic message production and comprehension, and their role in in situ language processing and conversational turn-taking.
 
-Relevant prior reading: Holler, J., Kendrick, K. H., & Levinson, S. C. (2017). [Processing language in face-to-face conversation: Questions with gestures get faster responses](/papers/holler.pdf). Psychonomic Bulletin & Review, 1-9.
+Holler, J., Kendrick, K. H., & Levinson, S. C. (2017). [Processing language in face-to-face conversation: Questions with gestures get faster responses](/papers/holler.pdf). Psychonomic Bulletin & Review, 1-9.
 
 ### Ian Cross (Cambridge University)
 *Music, speech and the relational dimension of interaction*
 
 We tend to understand music as formed of autonomous works with aesthetic value that can be explored and analysed in terms of its textual identities: as scores, and perhaps, as recordings.  This provides a narrow and partial view of music, even more reduced than that which is afforded on language by a focus on the complexities of syntactic and semantic properties. In this paper I shall argue that music—and language—are fundamentally interactive media; that they constitute culturally-particularised components of an underlying human communicative toolkit, differentiable primarily by function; and that they overlap significantly in the resources on which they draw in real-time interactive communication.  I shall contend that we should think of music as foregrounding relational aspects of communication and as tending to elicit affiliative frames for interaction.  I shall show that in communicative contexts that are relational, affiliative, yet apparently linguistic, conversational interaction tends to display features that we can think of as musical, and will argue that these features are used pragmatically to sustain mutual affiliation in real-time interaction.
  
-Relevant prior reading: Cross, I. (2013). ["Does not compute"? Music as real-time communicative interaction](/papers/cross.pdf). AI & Society, 28(4), 415-430
+Cross, I. (2013). ["Does not compute"? Music as real-time communicative interaction](/papers/cross.pdf). AI & Society, 28(4), 415-430
 
 ### Jonathan Ginzburg (LLF, Paris-Diderot)
 *Gesture, Emotion and Interaction*
 
 Certain classes of gestures, most prominently facial gestures, are sometimes understood referentially, sometimes in terms of emotions. This point applies also to musical content, where although its understanding in terms of emotional content is widespread, there is increasing evidence for the existence of referential content, on which arguably emotional content supervenes. I will consider how to integrate the semantic contribution of certain gestures to a theory of dialogue, attempting along the way to explain the limits of what they can express. In particular, I will offer some initial proposals about how to integrate mood (in the sense of `medium term feeling') into information states and the appraisal process into utterance processing.
+
+Jonathan Ginzburg, Ellen Breitholz, Robin Cooper, Julian Hough, and Ye Tian [‘Understanding Laughter’](/papers/ginzburg.pdf). In: Thomas Brochhagen, Floris Roelofsen & Nadine Theiler (eds.) Proceedings of the 20th Amsterdam Colloquium, Amsterdam, December 2015, pp. 137-146. 
