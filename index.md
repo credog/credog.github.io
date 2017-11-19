@@ -6,7 +6,7 @@ In recent years, many approaches have been developed to represent the content an
 
 The aim of this workshop is to explore what criteria can be used to choose between or more interestingly to integrate these approaches. These include psycholinguistic plausibility, linguistic coverage, computer implementation, logical transparency and the possibility of using the framework to represent non-linguistic media with content such as gesture, music, and visual media.
 
-The workshop also constitutes the closing event of the ANR-DFG project [Disfluences, Exclamations, and Laughter (DUEL)](http://www.dsg-bielefeld.de/DUEL/). Several talks will discuss the main results of the project and prospects raised.
+The workshop also constitutes the closing event of the ANR-DFG project [Disfluencies, Exclamations, and Laughter in Dialogue (DUEL)](http://www.dsg-bielefeld.de/DUEL/). Several talks will discuss the main results of the project and prospects raised.
 
 The workshop is funded by the [Institut Universitaire de France](http://www.iufrance.fr/) project Integrating Verbal and Non-Verbal Meaning (PI: Jonathan Ginzburg)
 

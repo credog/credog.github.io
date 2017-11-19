@@ -62,7 +62,7 @@ Dialogue is sensitive to many aspects of context, including the roles that parti
 ### David Schlangen (Bielefeld University)
 *Dialogical Learning and Maintenance of a Lexicon for Situated Interaction*
 
-(TBA)
+I will present our recent work on learning a lexicon for referential interaction, where the referential aspects of word meaning are modelled through perceptual classifiers taking real images as input. I show that this representation complements other computational meaning representations such as those derived from distributional patterns, as well as decompositional or attribute-based representations. I will close with some thoughts on problems of currently used settings for visually-grounded dialogue mostly coming from the computer-vision community, and a description of our current efforts to define a task that emphasises dialogue aspects more.
 
 Schlangen, D. (2016). [Grounding, Justification, Adaptation: Towards Machines That Mean What They Say](/papers/schlangen.pdf). In Proceedings of the 20th Workshop on the Semantics and Pragmatics of Dialogue (JerSem).
 
