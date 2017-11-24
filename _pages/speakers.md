@@ -98,3 +98,5 @@ Cross, I. (2013). ["Does not compute"? Music as real-time communicative interact
 Certain classes of gestures, most prominently facial gestures, are sometimes understood referentially, sometimes in terms of emotions. This point applies also to musical content, where although its understanding in terms of emotional content is widespread, there is increasing evidence for the existence of referential content, on which arguably emotional content supervenes. I will consider how to integrate the semantic contribution of certain gestures to a theory of dialogue, attempting along the way to explain the limits of what they can express. In particular, I will offer some initial proposals about how to integrate mood (in the sense of `medium term feeling') into information states and the appraisal process into utterance processing.
 
 Jonathan Ginzburg, Ellen Breitholz, Robin Cooper, Julian Hough, and Ye Tian [‘Understanding Laughter’](/papers/ginzburg.pdf). In: Thomas Brochhagen, Floris Roelofsen & Nadine Theiler (eds.) Proceedings of the 20th Amsterdam Colloquium, Amsterdam, December 2015, pp. 137-146. 
+
+![bubbles](/assets/images/bubbles.jpg){: .align-center}
