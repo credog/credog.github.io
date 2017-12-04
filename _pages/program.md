@@ -8,7 +8,7 @@ permalink: /program/
 | 09h30               | Robin Cooper   (Gothenburg University)<br/> *How to play games with types*                                                                                       |
 | 10h30               | Heather Burnett (LLF, Paris-Diderot)<br/> *Identity construction in dialogue: A game-theoretic approach*                                                         |
 | 11h30–12h00         | pause café                                                                                                                                                    |
-| 12h00               | Nicholas Asher  (IRIT, Toulouse) (TBA)                                                                                                                        |
+| 12h00               | Nicholas Asher  (IRIT, Toulouse) *Strategic moves in situated dialogue*                                                                                                                        |
 | 13h00–14h00         | pause déjeuner                                                                                                                                                |
 | 14h00               | Ye Tian (LLF, Paris-Diderot & Amazon)<br/> *Um, what’s the word: Filled Pauses and Self-addressed Questions; Disfluency in German, French and Chinese dialogues* |
 | 15h00               | Julian Hough (Bielefeld University)<br/> *Deep Learning Approaches to Incremental Disfluency Detection*                                                          |

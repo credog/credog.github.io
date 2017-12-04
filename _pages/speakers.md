@@ -26,8 +26,7 @@ Literature:
 I give a brief overview of social meaning and identity construction through language and argue that identity construction considerations play an important role in both the use and interpretation of individual linguistic expressions, and in the construction and understanding of larger dialogues. I present a Bayesian game theoretic model of identity construction with single expressions and discuss prospects for the extension of this model to full dialogues.
 
 ### Nicholas Asher  (IRIT, Toulouse) 
-
-(TBA)                                                                                                                       
+*Strategic moves in situated dialogue*
 
 ### Ye Tian (LLF, Paris-Diderot & Amazon)
 *Um, what’s the word: Filled Pauses and Self-addressed Questions* ([pdf](/papers/tian.pdf))<br/>
